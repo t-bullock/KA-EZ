@@ -2636,6 +2636,24 @@ width = 573;
 unicode = 0060;
 },
 {
+glyphname = ring;
+lastChange = "2019-07-05 20:36:13 +0000";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = l;
+transform = "{1, 0, 0, 1, -210, 0}";
+}
+);
+layerId = "87B98ACE-BA04-4916-B966-B47563C514B9";
+width = 0;
+}
+);
+unicode = 02DA;
+},
+{
 export = 0;
 glyphname = _part.elafron;
 lastChange = "2019-04-14 22:30:58 +0000";
