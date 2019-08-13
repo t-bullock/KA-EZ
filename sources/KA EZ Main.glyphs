@@ -1,5 +1,8 @@
 {
 .appVersion = "895";
+DisplayStrings = (
+"/trademark 2NzN/Omega N2/trademark z\"\0122:0"
+);
 copyright = "SIL OPEN FONT LICENSE Version 1.1";
 date = "2017-02-17 20:36:56 +0000";
 designer = "Trevor Bullock";
@@ -1255,7 +1258,7 @@ unicode = 0031;
 },
 {
 glyphname = two;
-lastChange = "2019-03-12 05:05:21 +0000";
+lastChange = "2019-08-13 02:37:43 +0000";
 layers = (
 {
 components = (
@@ -1265,7 +1268,7 @@ name = one;
 },
 {
 name = asciitilde;
-transform = "{1, 0, 0, 1.1, 720, -210}";
+transform = "{1, 0, 0, 1.1, 700, -210}";
 }
 );
 layerId = "87B98ACE-BA04-4916-B966-B47563C514B9";
@@ -1476,13 +1479,13 @@ unicode = 005C;
 },
 {
 glyphname = colon;
-lastChange = "2019-03-12 05:05:21 +0000";
+lastChange = "2019-08-13 02:25:45 +0000";
 layers = (
 {
 components = (
 {
 name = semicolon;
-transform = "{1, 0, 0, 1, 0, -70}";
+transform = "{1, 0, 0, 1, 0, -110}";
 }
 );
 layerId = "87B98ACE-BA04-4916-B966-B47563C514B9";
@@ -1615,13 +1618,13 @@ unicode = 003F;
 },
 {
 glyphname = quotedbl;
-lastChange = "2019-03-12 05:05:21 +0000";
+lastChange = "2019-08-13 02:25:37 +0000";
 layers = (
 {
 components = (
 {
 name = quotesingle;
-transform = "{1, 0, 0, 1, 60, -70}";
+transform = "{1, 0, 0, 1, 60, -110}";
 }
 );
 layerId = "87B98ACE-BA04-4916-B966-B47563C514B9";
