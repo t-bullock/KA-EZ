@@ -1,7 +1,7 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-"/trademark 2NzN/Omega N2/trademark z\"\0122:0"
+"@#\0122:0"
 );
 copyright = "SIL OPEN FONT LICENSE Version 1.1";
 date = "2017-02-17 20:36:56 +0000";
@@ -1532,7 +1532,7 @@ unicode = 0021;
 },
 {
 glyphname = numbersign;
-lastChange = "2019-03-12 05:05:21 +0000";
+lastChange = "2019-08-23 23:44:57 +0000";
 layers = (
 {
 components = (
@@ -1546,7 +1546,7 @@ transform = "{0.9, 0, 0, 0.9, 220, -70}";
 }
 );
 layerId = "87B98ACE-BA04-4916-B966-B47563C514B9";
-width = 1094;
+width = 1045;
 }
 );
 unicode = 0023;
